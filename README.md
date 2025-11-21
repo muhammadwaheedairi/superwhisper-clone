@@ -1,3 +1,4 @@
+````md
 # Superwhisper Clone  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -47,6 +48,20 @@ This PDF contains:
 
 ---
 
+## 🎛 Design → Code Visual Comparison
+
+| Design Preview | Code Output |
+|----------------|-------------|
+| ![Design Hero](./design/hero.png) | ![Code Hero](./screens/hero.png) |
+| ![Design Features](./design/feat.png) | ![Code Features](./screens/feat.png) |
+| ![Design Pricing](./design/price.png) | ![Code Pricing](./screens/price.png) |
+| ![Design Reviews](./design/rev.png) | ![Code Reviews](./screens/rev.png) |
+| ![Design FAQ](./design/faq.png) | ![Code FAQ](./screens/faq.png) |
+
+*Replace all image paths with real screenshots.*
+
+---
+
 ## 🛠 Tech Stack
 
 - **Next.js 14+ (App Router)**
@@ -62,3 +77,55 @@ This PDF contains:
 ```bash
 git clone https://github.com/your-username/superwhisper-clone.git
 cd superwhisper-clone
+````
+
+### 2️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+### 3️⃣ Start development server
+
+```bash
+npm run dev
+```
+
+Open:
+`http://localhost:3000`
+
+---
+
+## 🌐 Live Demo
+
+(Insert your deployed link here)
+
+---
+
+## 📝 Notes
+
+This project is a **frontend-only UI clone**.
+All original branding, content, and designs belong to **Superwhisper**.
+
+---
+
+## 📜 License — MIT
+
+```
+MIT License
+
+Copyright (c) 2025 Muhammad Waheed
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+```
+
+---
+
+## 👤 Author
+
+**Muhammad Waheed**
+Frontend Developer | UI Engineer
+
+```
+
+---st tell me.
+```
