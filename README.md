@@ -47,20 +47,6 @@ This PDF contains:
 
 ---
 
-## 🎛 Design → Code Visual Comparison
-
-| Design Preview | Code Output |
-|----------------|-------------|
-| ![Design Hero](./design/hero.png) | ![Code Hero](./screens/hero.png) |
-| ![Design Features](./design/feat.png) | ![Code Features](./screens/feat.png) |
-| ![Design Pricing](./design/price.png) | ![Code Pricing](./screens/price.png) |
-| ![Design Reviews](./design/rev.png) | ![Code Reviews](./screens/rev.png) |
-| ![Design FAQ](./design/faq.png) | ![Code FAQ](./screens/faq.png) |
-
-*Replace all image paths with real screenshots.*
-
----
-
 ## 🛠 Tech Stack
 
 - **Next.js 14+ (App Router)**
