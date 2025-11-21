@@ -34,8 +34,6 @@ Built using **Next.js, TypeScript, and Tailwind CSS** — crafted as a professio
 
 ## 🧾 Design → Code Documentation (PDF)
 
-A placeholder PDF is included showing the **design-to-code workflow** for your portfolio.
-
 👉 **Download PDF**:  
 [Superwhisper_Design_to_Code_Preview.pdf](./Superwhisper_Design_to_Code_Preview.pdf)
 
