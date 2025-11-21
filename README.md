@@ -41,8 +41,6 @@ A placeholder PDF is included showing the **design-to-code workflow** for your p
 
 This PDF contains:
 - Design previews  
-- Code implementation concepts  
-- UI breakdown  
 - Pixel-perfect mapping  
 
 ---
@@ -83,7 +81,7 @@ Open:
 
 ## 🌐 Live Demo
 
-(Insert your deployed link here)
+(https://superwhisper-clone.vercel.app/)
 
 ---
 
@@ -108,9 +106,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 ## 👤 Author
 
 **Muhammad Waheed**
-Frontend Developer | UI Engineer
-
-```
-
----st tell me.
-```
+Frontend Developer
