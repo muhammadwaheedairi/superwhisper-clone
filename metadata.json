@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Superwhisper Clone",
+  "description": "A pixel-perfect recreation of the Superwhisper landing page with a functional AI writing demo powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
